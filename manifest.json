@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "26.05.39",
-  "generatedAt": "2026-05-06T11:33:31.915Z",
-  "size": 624329,
-  "sha256": "806169e9fd147f5d6c2f3ce00d7dc47dbe7aafac15de44adf56b9cb6b98416f8",
-  "iv": "HRH5HglkRoD2ukYF",
-  "authTag": "l+D8y7JXlzBF0vCQ5h7TgA==",
+  "version": "26.05.40",
+  "generatedAt": "2026-05-06T13:19:12.772Z",
+  "size": 624336,
+  "sha256": "1f4fb77e9db616bdaeb38c3cc27ae7a2330162ded67c3806bb432eb41f96f4dc",
+  "iv": "Rbx4RccZ2FlMy8Da",
+  "authTag": "QyK7m+M5mWWjBXnOaK+KbA==",
   "url": "https://raw.githubusercontent.com/tom5park/ular-maldives-data/main/inventory.bin",
-  "hmac": "fcacce7bb0be70e7db0d561d7c72ba8f4233f1c977fa2624db0204332154ae75"
+  "hmac": "019bcb2cbb7e5d806c817f65f35b043e47797e40ba183f81d56f33c05409f7af"
 }
